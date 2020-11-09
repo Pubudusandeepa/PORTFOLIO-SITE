@@ -1,0 +1,19 @@
+.contact-jumbotron {
+    background-image: url("../../assets//img/background/background.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.font-details {
+    font-size: 3em;
+    font-weight: 500;
+    color: #231d5af8;
+
+}
+
+.font-details-b {
+    font-size: 3em;
+    font-weight: 500;
+    color: #231d5af8;
+}
